@@ -6,7 +6,7 @@ inputs:
     description: 'Webhook URL for the MS Teams Channel to receive the Message'
     required: true
   message:
-    description: "Message to be posted in MS Teams Channel"
+    description: "Message to be posted in MS Teams Channel from  Arun"
     required: true
 runs:
   using: 'docker'
